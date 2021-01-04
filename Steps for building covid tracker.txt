@@ -1,0 +1,11 @@
+/* steps for building a covid tracker
+    1)create  wireframe{which is like a rough design of what we are building}
+    2)create  react app{ This is used to for build a setup for our application}
+    3) clearing the unnecessary files in project.
+    4)structuring the covid tracker {getting the correct layout i.e maintaing the tags}
+    5)using disease.sh api for listing for fetching/requesting information
+    6)for line chart used chart.js
+    7)for map use MapLeaflet
+  
+*/
+
