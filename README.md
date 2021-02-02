@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Covid19-tracker
 
-> Web Application built with React.js,chart.js,leaflet.js and Material UI.
+ Web Application built with React.js,chart.js,leaflet.js and Material UI.
 
 COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
 
@@ -12,11 +12,12 @@ With the oubreak world-wide and increasing number of active patients, there are 
 
 `COVID19-tracker` is yet another Project to build a Dashboard like app to showcase the data related to the COVID-19(Corona Virus).
 
-> `COVID19-tracker` app is running as a website hosted on Firebase.
+ `COVID19-tracker` app is running as a website hosted on Firebase.
 # See it Running 
 👉 [Covid-tracker](covid19-tracker-f436a.firebaseapp.com)
 
 <img align="left" alt="proshop"  src="./Covidtracker.png"  />
+
 # Analytics
 
 `COVID19-tracker` provides some basic but useful analytics to understand the depth and gravity of the situation.
